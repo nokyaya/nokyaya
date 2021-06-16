@@ -1,4 +1,4 @@
-### **hi my name is [noky](https://github.com/nokyaya) 👋***
+### **hi my name is [noky](https://github.com/nokyaya) 👋**
 
 
 
