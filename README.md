@@ -1,6 +1,6 @@
 ### **hi my name is [noky](https://github.com/nokyaya) 👋***
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/nokyaya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nokyaya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
