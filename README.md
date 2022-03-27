@@ -1,4 +1,4 @@
-### **hi my name is [noky](https://github.com/nokyaya) 👋***
+### **hi my name is [noky](https://github.com/nokyaya) 👋**
 
 <div align="left">
   <a href="https://github.com/nokyaya">
@@ -8,7 +8,6 @@
   ### Languages and tools
   
 <div style="display: inline_block"><br>
-  <i class='fa fa-github'></i>
   <img align="center" alt="noky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="noky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="noky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
