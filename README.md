@@ -17,7 +17,7 @@
 ## 
   
   <div> 
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://github.com/nokyaya/nokyaya/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
   
   ### noky#0123
