@@ -13,3 +13,11 @@
   <img align="right" alt="noky-pic" height="150" style="border-radius:100px;" 
        src="https://freepngimg.com/thumb/reddit/71680-emoticon-reddit-sticker-pepe-frog-pol-the-thumb.png?width=676&height=676">
 </div>
+
+## 
+  
+  <div> 
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
+  
+  ### noky#0123
